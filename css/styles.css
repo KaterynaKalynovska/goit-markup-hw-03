@@ -185,7 +185,7 @@ img {
     gap: 24px;
 }
 
-li {
+.features-item {
     flex-basis: calc((100% - 72px) / 4);
 }
 
