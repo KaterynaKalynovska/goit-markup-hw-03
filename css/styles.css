@@ -185,7 +185,19 @@ img {
     gap: 24px;
 }
 
-.features-item {
+.features-item-one {
+    width: calc((100% - 72px) / 4);
+}
+
+.features-item-two {
+    width: calc((100% - 72px) / 4);
+}
+
+.features-item-three {
+    width: calc((100% - 72px) / 4);
+}
+
+.features-item-four {
     width: calc((100% - 72px) / 4);
 }
 
